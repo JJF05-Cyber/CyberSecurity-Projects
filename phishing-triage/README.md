@@ -7,7 +7,7 @@ Analyze a simulated phishing email, extract indicators of compromise (IOCs), and
 CyberDefenders — PhishStrike Challenge (.eml file)
 
 ## Methodology
-1. Opened the `.eml` file in a text editor (never executed it) and inspected raw email headers.
+1. Opened the `.eml` file in a VSCode (never executed it) and inspected raw email headers.
 2. Checked `Authentication-Results` for SPF/DKIM failures.
 3. Extracted the embedded URL and sender IP.
 4. Investigated the URL on VirusTotal and URLHaus.
@@ -30,4 +30,4 @@ CyberDefenders — PhishStrike Challenge (.eml file)
 Phishing triage is the #1 Tier 1 SOC task. This project demonstrates the ability to analyze email headers, extract IOCs, pivot across threat intelligence platforms, and document findings in an actionable format.
 
 ## Tools Used
-CyberDefenders, VirusTotal, URLHaus, text editor
+CyberDefenders, VirusTotal, URLHaus, VSCode
