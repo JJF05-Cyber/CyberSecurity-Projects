@@ -1,4 +1,4 @@
-# Project 3: Password Hash Analysis with John the Ripper
+# Project : Password Hash Analysis with John the Ripper
 
 ## Objective
 Demonstrate the ability to identify and crack common password hashes using John the Ripper, and understand the implications for credential-based attacks in a SOC context.
