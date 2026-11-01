@@ -1,4 +1,4 @@
-# Project 4: Network Traffic Analysis (PCAP) — Koi Stealer C2 Investigation
+# Project : Network Traffic Analysis (PCAP) — Koi Stealer C2 Investigation
 
 ## Objective
 Analyze a malicious PCAP to identify the infected host, the command-and-control (C2) communication, and the likely initial infection vector.
