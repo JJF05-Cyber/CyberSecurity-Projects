@@ -1,4 +1,4 @@
-# Project 1: Phishing Email Triage & IOC Analysis
+# Project : Phishing Email Triage & IOC Analysis
 
 ## Objective
 Analyze a simulated phishing email, extract indicators of compromise (IOCs), and pivot across threat intelligence platforms to determine the nature and severity of the threat.
